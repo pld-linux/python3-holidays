@@ -6,7 +6,7 @@
 Summary:	Generate and work with holidays in Python
 Name:		python3-%{module}
 Version:	0.49
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://pypi.debian.net/holidays/%{module}-%{version}.tar.gz
